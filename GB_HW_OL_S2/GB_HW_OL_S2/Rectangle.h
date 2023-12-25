@@ -2,7 +2,7 @@
 //  Rectangle.h
 //  GB_HW_OL_S2
 //
-//  Created by Oleg Lotsman on 03.09.2023.
+//  Created by OL on 03.09.2023.
 //
 
 #import <Foundation/Foundation.h>
